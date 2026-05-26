@@ -2,7 +2,7 @@
 
 **Sensor Tolerant Adaptive Rust-based Acquisition**  
 Departemen Teknik Instrumentasi — Fakultas Vokasi — ITS 2026  
-Penulis: **Vyanda Kartika Fajarina** | NRP: **2042241030**
+Penulis: **Vyanda Kartika Fajarina & Aulia Qotrunnada** | NRP: **2042241030 7 2042241031**
 
 ---
 
