@@ -1,0 +1,9 @@
+[wokwi]
+version = 1
+firmware = "target/xtensa-esp32s3-espidf/debug/sentara-dht22"
+chip = "esp32s3"
+elf = "target/xtensa-esp32s3-espidf/debug/sentara-dht22"
+
+[[net.forward]]
+from = "localhost:8080"
+to = "target:80"
